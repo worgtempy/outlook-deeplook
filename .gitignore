@@ -2,3 +2,6 @@ __pycache__/
 *.pyc
 search_results_*/
 .env
+.env
+*.pyc
+__pycache__/
